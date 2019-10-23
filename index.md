@@ -1,5 +1,5 @@
 ---
-title: // Victor
+title: /home
 layout: home
 permalink: 
 ---
